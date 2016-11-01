@@ -8,9 +8,13 @@
 
 ##效果图
 
-![效果图][1]![效果图][2]![效果图][3]
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/1.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/2.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/3.jpg" width="240px" height="427px" />
 
-![效果图][4]![效果图][5]![效果图][6]
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/4.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/5.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/6.jpg" width="240px" height="427px" />
 
 
 
