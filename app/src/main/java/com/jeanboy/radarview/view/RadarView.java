@@ -19,7 +19,7 @@ public class RadarView extends View {
 
     private List<RadarData> dataList;
 
-    private int count;
+    private int count = 6;//雷达网圈数
     private float angle;//多边形弧度
     private float radius;
     private float maxValue = 100f;
@@ -31,10 +31,10 @@ public class RadarView extends View {
     private int valueColor = 0xFF79D4FD;//数据区颜色
     private int textColor = 0xFF808080;//文本颜色
 
-    private float mainLineWidth = 0.5f;
-    private float valueLineWidth = 1f;
-    private float valuePointRadius = 2f;
-    private float textSize = 14f;
+    private float mainLineWidth = 0.5f;//雷达网线宽度dp
+    private float valueLineWidth = 1f;//数据区边宽度dp
+    private float valuePointRadius = 2f;//数据区圆点半径dp
+    private float textSize = 14f;//字体大小sp
 
     private int mWidth, mHeight;
 
@@ -183,7 +183,7 @@ public class RadarView extends View {
             throw new RuntimeException("The number of data can not be less than 3");
         } else {
             this.dataList = dataList;
-            count = dataList.size();
+            count = dataList.size();//圈数等于数据个数，默认为6
             angle = (float) (Math.PI * 2 / count);
             invalidate();
         }
