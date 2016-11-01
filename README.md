@@ -35,11 +35,11 @@
     limitations under the License.
 
 
- [1]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/1.jpg
- [2]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/2.jpg
- [3]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/3.jpg
- [4]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/4.jpg
- [5]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/5.jpg
- [6]:https://github.com/jeanboydev/Android-RadarView/tree/master/resources/6.jpg
+ [1]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/1.jpg
+ [2]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/2.jpg
+ [3]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/3.jpg
+ [4]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/4.jpg
+ [5]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/5.jpg
+ [6]:https://github.com/jeanboydev/Android-RadarView/blob/master/resources/6.jpg
 
 
