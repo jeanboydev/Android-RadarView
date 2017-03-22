@@ -2,11 +2,11 @@
 
 ------
 
-##介绍
+## 介绍
 
 雷达图，类似支付宝芝麻分解读，王者荣耀对战资料图。
 
-##效果图
+## 效果图
 
 <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/1.jpg" width="240px" height="427px" />
 <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/2.jpg" width="240px" height="427px" />
