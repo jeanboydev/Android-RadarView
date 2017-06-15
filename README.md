@@ -8,9 +8,9 @@
 
 ## 效果图
 
-<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/1.jpg" width="240px" height="427px" /><img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/2.jpg" width="240px" height="427px" /><img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/3.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/1.jpg" width="240px" height="427px" /> <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/2.jpg" width="240px" height="427px" /> <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/3.jpg" width="240px" height="427px" />
 
-<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/4.jpg" width="240px" height="427px" /><img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/5.jpg" width="240px" height="427px" /><img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/6.jpg" width="240px" height="427px" />
+<img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/4.jpg" width="240px" height="427px" /> <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/5.jpg" width="240px" height="427px" /> <img src="https://github.com/jeanboydev/Android-RadarView/blob/master/resources/6.jpg" width="240px" height="427px" />
 
 
 
