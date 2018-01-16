@@ -7,10 +7,43 @@
     tools:context="com.jeanboy.radarview.MainActivity">
 
 
+    <LinearLayout
+        android:id="@+id/ll_button_menu"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:onClick="do3Test"
+            android:text="3" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:onClick="do6Test"
+            android:text="6" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:onClick="do9Test"
+            android:text="9" />
+
+    </LinearLayout>
+
     <com.jeanboy.radarview.view.RadarView
         android:id="@+id/radarView"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:layout_above="@id/ll_button_menu" />
 
 
 </RelativeLayout>

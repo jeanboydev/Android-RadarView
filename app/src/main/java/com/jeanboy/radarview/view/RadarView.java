@@ -179,7 +179,7 @@ public class RadarView extends View {
 
 
     public void setDataList(List<RadarData> dataList) {
-        if (isDataListValid()) {
+        if (dataList == null || dataList.size() < 3) {
             throw new RuntimeException("The number of data can not be less than 3");
         } else {
             this.dataList = dataList;
